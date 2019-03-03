@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">SwetlApp</string>
+    <string name="logo_description">Amazon Alexa\'s logo</string>
+    <string name="version">Version 1.0</string>
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="alexa" translatable="false">A L E X A</string>
+    <string name="email" translatable="false">e-mail</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="go">Go</string>
+    <string name="last_access">Last access:</string>
+    <string name="password_minimum">Password must contain at least 10 characters</string>
+    <string name="invalid_email">Invalid email address</string>
+    <string name="invalid_password">Password is not valid</string>
+    <string name="error_connection_text">Your internet connection may be down or there could be problems in AWS\'s servers.</string>
+    <string name="error_connection">Connection error</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="back_to_home">Back to home page</string>
+    <string name="title_activity_workflow">Workflow</string>
+    <string name="no_access">No recent access</string>
+    <string name="delete">Delete</string>
+    <string name="new_workflow">New workflow</string>
+    <string name="duplicate_username">The email address that you want to register is already in the database!</string>
+    <string name="duplicate_username_title">Username duplicate</string>
+    <string name="username_notfound">This email address does not exist!</string>
+    <string name="name_workflow">Workflow name</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+    <string name="credential_fail">This email and password combination does not exist!</string>
+    <string name="login_error">Authentication problem</string>
+    <string name="delete_workflow">Delete workflow</string>
+    <string name="available_connectors">Available connectors</string>
+    <string name="active_connectors">Active connectors</string>
+    <string name="save_edits">Save edits</string>
+    <string name="duplicate_wf">There already is a workflow with this name!</string>
+    <string name="remove">Remove</string>
+</resources>

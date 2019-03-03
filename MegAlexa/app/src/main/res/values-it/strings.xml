@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MegAlexa</string>
+    <string name="logo_description">Logo di Amazon Alexa</string>
+    <string name="version">Versione 1.0</string>
+
+    <string name="login">Entra</string>
+    <string name="register">Registrati</string>
+    <string name="go">Vai</string>
+    <string name="last_access">Ultimo accesso:</string>
+    <string name="password_minimum">La password deve contenere almeno 10 caratteri</string>
+    <string name="invalid_email">Indirizzo email non valido</string>
+    <string name="invalid_password">La password non è valida</string>
+    <string name="error_connection_text">La tua connessione ad internet potrebbe essere spenta oppure i server di AWS potrebbero avere dei problemi.</string>
+    <string name="error_connection">Errore di connessione</string>
+    <string name="congratulations">Congratulazioni!</string>
+    <string name="back_to_home">Torna alla pagina iniziale</string>
+    <string name="title_activity_workflow">Workflow</string>
+    <string name="no_access">Nessun accesso recente</string>
+    <string name="delete">Cancella</string>
+    <string name="new_workflow">Nuovo workflow</string>
+    <string name="duplicate_username">L\'indirizzo email che vuoi registrare è già presente nel database!</string>
+    <string name="duplicate_username_title">Username duplicato</string>
+    <string name="username_notfound">Questo indirizzo email non esiste!</string>
+    <string name="name_workflow">Nome del workflow</string>
+    <string name="cancel">Annulla</string>
+    <string name="add">Aggiungi</string>
+    <string name="credential_fail">Questa combinazione di email e password non esiste!</string>
+    <string name="login_error">Problema di autenticazione</string>
+    <string name="delete_workflow">Cancella workflow</string>
+    <string name="available_connectors">Connettori disponibili</string>
+    <string name="active_connectors">Connettori attivi</string>
+    <string name="save_edits">Salva modifiche</string>
+    <string name="duplicate_wf">C\'è già un workflow con questo nome!</string>
+    <string name="remove">Togli</string>
+</resources>
