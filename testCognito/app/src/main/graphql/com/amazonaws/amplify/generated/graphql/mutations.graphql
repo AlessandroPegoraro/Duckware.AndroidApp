@@ -1,0 +1,25 @@
+# this is an auto generated file. This will be overwritten
+mutation CreateWorkflow($input: CreateWorkflowInput!) {
+  createWorkflow(input: $input) {
+    id
+    name
+    description
+    testUpdate
+  }
+}
+mutation UpdateWorkflow($input: UpdateWorkflowInput!) {
+  updateWorkflow(input: $input) {
+    id
+    name
+    description
+    testUpdate
+  }
+}
+mutation DeleteWorkflow($input: DeleteWorkflowInput!) {
+  deleteWorkflow(input: $input) {
+    id
+    name
+    description
+    testUpdate
+  }
+}

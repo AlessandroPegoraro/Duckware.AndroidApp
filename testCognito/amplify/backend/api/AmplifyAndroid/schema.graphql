@@ -1,0 +1,6 @@
+type Workflow @model {
+  id: ID!
+  name: String!
+  description: String
+  testUpdate: String
+}
